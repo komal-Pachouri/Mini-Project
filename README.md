@@ -27,7 +27,7 @@ Each project helped me practice front-end concepts like layout design, responsiv
 ## 🚀 How to Use
 1. Clone the repository:  
    bash
-   git clone https://github.com/komalPachouri/Mini-Project.git
+   git clone https://github.com/komal-Pachouri/Mini-Project.git
    
 2. Open any project folder in your browser by launching the index.html file.
 
@@ -40,6 +40,3 @@ Each project helped me practice front-end concepts like layout design, responsiv
 
 ---
 
-Frontend Developer | Passionate Learner  
-📧 [Your Email Here]  
-🌐 [Portfolio / LinkedIn Link Here]
